@@ -35,9 +35,10 @@ h1 {
 }
 .box {
     /* background-color: var(--clr-text); */
-    background-color: white;
+    background-color: rgb(70, 56, 56);
     /* padding: 20px; */
     border: 1px solid var(--clr-border);
+    border-radius: 5px;
 }
 
 @media screen and (max-width: 500px) {
